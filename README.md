@@ -17,4 +17,5 @@ Attach each qr_code to the wall where you want to see robot's global pose <br/> 
 ## 3. Specify global position and orientation of each qr_code
 ### Extract global position and orientation of each qr_code by using rviz2
 ### You may get position and angle value on terminal
-### Put each values to txt file "./global/global_pose.txt"
+### Put each values to txt file "./global/global_pose.txt" <br/>
+### e.g. Index: 1, Position: [-0.531536, 0.69256], Orientation: [0.0, 0.0, 0.00708647]
