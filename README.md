@@ -22,3 +22,6 @@ Attach each qr_code to the wall where you want to see robot's global pose <br/> 
 ### You may get position and angle value on terminal
 ### Put each values (index, position, orientation) to txt file "./global/global_pose.txt" <br/> orientaion: (roll, pitch, yaw)<br/>
 #### e.g. Index: 1, Position: [-0.531536, 0.69256], Orientation: [0.0, 0.0, 0.00708647]
+
+## 4. Implement launch file
+### $ ros2 launch qr_localization qr_localization.launch.py
