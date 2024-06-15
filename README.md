@@ -26,3 +26,6 @@ Attach each qr_code to the wall where you want to see robot's global pose <br/> 
 ## 4. Implement launch file
 ### $ ros2 launch qr_localization qr_localization.launch.py
 ### $ ros2 launch turtlebot3_cartographer turtlebot3_localization laod_state_filename:="your_pbstream_path"
+
+#### Global_Robot vs base_link
+<img width="320" alt="스크린샷 2024-06-15 오후 10 08 37" src="https://github.com/Jmyeong/qr_localization/assets/102497445/375acc01-7e64-47d3-895b-a48992328305">
