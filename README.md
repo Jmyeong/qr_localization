@@ -4,7 +4,7 @@ This package uses QR_Code for landmarks when implementing pure_localization on c
 This can enhance accuracy of global localization <br/>
 Also can do pose estimation with no initial delay (Original cartographer has initial delay for scan matching)
 
-## How to use
+# How to use
 
 ## 0. Prepare webcam on the left side of robot body 
 
@@ -21,4 +21,4 @@ Attach each qr_code to the wall where you want to see robot's global pose <br/> 
 ### Extract global position and orientation of each qr_code by using rviz2
 ### You may get position and angle value on terminal
 ### Put each values (index, position, orientation) to txt file "./global/global_pose.txt" <br/> orientaion: (roll, pitch, yaw)<br/>
-### e.g. Index: 1, Position: [-0.531536, 0.69256], Orientation: [0.0, 0.0, 0.00708647]
+#### e.g. Index: 1, Position: [-0.531536, 0.69256], Orientation: [0.0, 0.0, 0.00708647]
