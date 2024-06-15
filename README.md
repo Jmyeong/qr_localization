@@ -10,3 +10,4 @@ Prepare your camera calibration file to "./camera_param" <br/>
 
 # 2. Prepare QR Code <br/>
 you have to give index number to each qr_code (1, 2, 3 ...) This must be integer !!! <br/>
+![IMG_6095](https://github.com/Jmyeong/qr_localization/assets/102497445/a6479388-fe49-40d5-bf4a-a91a45267dc1)
