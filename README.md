@@ -5,6 +5,9 @@ This can enhance accuracy of global localization <br/>
 Also can do pose estimation with no initial delay (Original cartographer has initial delay for scan matching)
 
 ## How to use
+
+## 0. Prepare webcam on the left side of robot body 
+
 ## 1. Camera calibration <br/>
 Prepare your camera calibration file to "./camera_param" <br/>
 
