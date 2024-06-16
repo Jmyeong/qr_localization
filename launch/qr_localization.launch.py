@@ -11,7 +11,7 @@ def generate_launch_description():
         package='qr_localization',
         executable='qr_camera',
         name='qr_camera',
-        output='screen',
+        output='screen'
     )
     
     node2 = Node(
